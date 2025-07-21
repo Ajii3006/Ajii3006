@@ -1,0 +1,20 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "A powerful therapeutic 3D game designed to help transform negative thoughts and emotions into strength. Upload images from your mobile gallery and attack them in an immersive 3D environment with realistic sound effects and custom background music.",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajii3006/Ajii3006.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajii3006/Ajii3006/issues"
+  },
+  "homepage": "https://github.com/Ajii3006/Ajii3006#readme"
+}
