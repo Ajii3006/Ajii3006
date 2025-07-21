@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Attacking Depression</string>
+    <string name="title_activity_main">Attacking Depression</string>
+    <string name="package_name">com.therapygame.attackingdepression</string>
+    <string name="custom_url_scheme">com.therapygame.attackingdepression</string>
+</resources>
